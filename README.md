@@ -1,7 +1,5 @@
 # Pdf_analyze_qwen
-
-
-
+## Use multi-process to improve efficiency
 pdf Analyze and info withdraw with qwen-long service, support muti-process to process large amount of data at the same time.
 ## Also uses asyncio to process multitask at the same time.
 
