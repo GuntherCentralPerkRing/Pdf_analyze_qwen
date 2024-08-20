@@ -1,5 +1,9 @@
 # Pdf_analyze_qwen
+
+
+
 pdf Analyze and info withdraw with qwen-long service, support muti-process to process large amount of data at the same time.
+Also uses asyncio to process multitask at the same time.
 
 meta, rct, cohort, economic四类别文献分别有不同提取条目，分别设置不同进程数
 
